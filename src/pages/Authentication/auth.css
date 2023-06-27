@@ -1,0 +1,22 @@
+@media screen and (max-width: 750px) {
+    .auth-forms{
+      width: 70% !important;
+    }
+    @media screen and (max-width: 550px) {
+        .auth-forms{
+            width: 78% !important;
+        }
+    }
+
+    @media screen and (max-width: 450px) {
+        .auth-forms{
+            width: 85% !important;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        .auth-forms{
+            width: 97% !important;
+        }
+    }
+}
